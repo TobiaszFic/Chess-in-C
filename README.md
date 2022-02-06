@@ -8,3 +8,5 @@ Keep in mind, I am but a humble pointer-fearing if-statement afficionado.
 Feedback is welcome.
 
 The next step is to write the whole thing all over again but neater and then write a bot to play some chess with me.
+
+06.02.2022 Edit: I am now 100% certain that this is absolute unforgivable blasphemy, but it serves as a testament to how far I've come.
